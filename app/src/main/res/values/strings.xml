@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="button_name">Играть</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="button2_name">ДА</string>
+    <string name="button3_name">НЕТ</string>
+    <string name="coins">Ваши баллы:</string>
+    <string name="example">2 + 2 = 4?</string>
+    <string name="gameover">Конец Игры!</string>
+    <string name="points">Ваши баллы:</string>
+    <string name="refresh">Начать сначала</string>
+
+
+<string name="error_configuration">Please configure your serial port first.</string>
+<string name="error_security">You do not have read/write permission to the serial
+        port.
+    </string>
+<string name="error_unknown">The serial port can not be opened for an unknown
+        reason.
+    </string>
+</resources>
